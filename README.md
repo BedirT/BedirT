@@ -1,5 +1,6 @@
 <div align="center">
-<img align="center" height="50%" width="auto" src="https://github.com/bedirt/bedirt/blob/master/img/logo.png" alt="Logo"><br><br>
+<br><br>
+<img align="center" height="125px" width="auto" src="https://github.com/bedirt/bedirt/blob/main/img/logo.png" alt="Logo"><br><br>
 <br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=bedirt&left_color=#2F4F4F&right_color=#4682B4" alt="visitor badge"/><br><br>
 </div>
