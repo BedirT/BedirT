@@ -2,7 +2,7 @@
 <br><br>
 <img align="center" height="125px" width="auto" src="https://github.com/bedirt/bedirt/blob/main/img/logo.png" alt="Logo"><br><br>
 <br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=bedirt&left_color=#2F4F4F&right_color=#4682B4" alt="visitor badge"/><br><br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBedirT%2FBedirT&count_bg=%234682B4&title_bg=%232F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/></a><br><br>
 </div>
 <p align="center">
 Hi there, I work on imperfect information games (mainly Dark Hex).<br>
