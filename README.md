@@ -5,8 +5,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBedirT%2FBedirT&count_bg=%234682B4&title_bg=%232F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/></a><br><br>
 </div>
 <p align="center">
-Hello, Bedir here. I am a Machine Learning Researcher. <br>
-My work and research is focused on RL, and CFR based approaches.<br>
+Hello, Bedir here. I am a Machine Learning Engineer. <br>
+Currently I am working on NLP, spending a lot of time on LLMs and all.
+On the side I work on RL, and CFR based approaches for Poker.<br>
 I do 3D modelling and sculpting on my free time.
 <br><br>
 <div align="center">
