@@ -6,7 +6,7 @@
 </div>
 <p align="center">
 Hello, Bedir here. I am a Machine Learning Engineer. <br>
-Currently I am working on NLP, spending a lot of time on LLMs and all.
+Currently I am working on NLP, spending a lot of time on LLMs and all. <br>
 On the side I work on RL, and CFR based approaches for Poker.<br>
 I do 3D modelling and sculpting on my free time.
 <br><br>
