@@ -13,7 +13,7 @@ AI in survey analysis at <a href="https://www.fathomthat.ai/">Fathom</a> or hard
 I often write about a problem I'm thinkering on, or a solution<br>
 I think to be revolutionary <i>(often it's not)</i> on <a href="https://www.bedirtapkan.com">my website</a>.<br><br>
 Feel free to contact me out of curiosity,<br>
-with a 7-figure job offer or just to ask a silly question<br>
+with a 7-figure job offer or just to ask a silly question.<br>
 If you are not trying to distribute the wealth of a<br>
 Nigerian prince, all messages are welcome!
 <br><br>
